@@ -1,18 +1,18 @@
-#Stock Analysis Using VBA
+Stock Analysis Using VBA
 
-###Project Overview 
+Project Overview 
 
 A friend asked me to help his parents look into a few stocks to see if they were worth purchasing. I set-up an Excel spreadsheet and utilized VBA to compare the stocks. After his parents looked it over they could easily see which ones were worth the investment.
 
-###Purpose
+Purpose
 
 The purpose of this project was to simplifiy the decision making process when it comes to investing in single stocks. 
 
-##Results
+Results
 
 To refactor the code, I first copied the code that need be reworked. Then I followed the preset steps that set the stucture for refactoring. 
 
-##Refactored Code
+Refactored Code
 
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
@@ -143,13 +143,13 @@ End Sub
 2018
 <img width="355" alt="2018" src="https://user-images.githubusercontent.com/101996888/163291967-2fd5c21e-273b-4cc6-8bb5-1897cd17be1d.png">
 
-##Summary
+Summary
 
-##Refactoring Code
+Refactoring Code
 
 Refactoring code can make code easier cleaner and easier to read. it can also make it run more efficient. I did not find any real disadvantages to refactoring code other than incorecctly refactoring, rendering the code useless.
 
-##Refactoring VBA Script
+Refactoring VBA Script
     
 I think a major advantage to using VBA is being able to utilize multiple modules at once to code by comparision. The disadvantage I found was using syntax.    
     
